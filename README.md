@@ -1,2 +1,0 @@
-# .paml
-new web development
